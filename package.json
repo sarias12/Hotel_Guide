@@ -1,0 +1,19 @@
+{
+  "name": "hotel_guide",
+  "version": "1.0.0",
+  "description": "My First Nodejs Project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarias12/Hotel_Guide.git"
+  },
+  "author": "Sergio Steben Arias Quintero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarias12/Hotel_Guide/issues"
+  },
+  "homepage": "https://github.com/sarias12/Hotel_Guide#readme"
+}
